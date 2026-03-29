@@ -1,0 +1,5 @@
+{
+  "name": "Nexus AI Assistant",
+  "description": "A premium AI assistant dashboard connected to an n8n workflow via webhook.",
+  "requestFramePermissions": []
+}
